@@ -29,7 +29,7 @@ Medical data is collected from a heart disease dataset containing patient health
 - Model Training<br>
 Data is split into training and testing sets<br>
 The model is trained using the training dataset
--Model Evaluation
+- Model Evaluation
 Accuracy score,
 Confusion matrix,
 Precision, recall, and F1-score
@@ -49,6 +49,9 @@ The trained model predicts whether a person has heart disease or not
 Patient Data: [Age=55, BP=140, Cholesterol=240]
 Prediction: Heart Disease Present ✅
 Probability: 0.82
-🧾 Conclusion
+
+------
+
+## Conclusion
 The Heart Disease Prediction system using Logistic Regression effectively classifies patients based on their health data.
 It demonstrates how machine learning can support healthcare by providing fast, reliable, and accurate predictions. With larger datasets and advanced models, prediction accuracy can be further improved.
